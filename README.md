@@ -9,4 +9,5 @@ The CANdiy-Shield is a plug-on module for Arduino with CAN-Bus (Controller Area 
 * 2 CAN connectors (RJ45)
 * Prototyping Area
 * Compatible with all Arduino Boards (SPI connection via 6-Pin ISP connector)
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/candiy-shield/)**
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
