@@ -4252,7 +4252,7 @@ Source: http://www.osram.convergy.de/ ... LG_LY Q971.pdf</description>
 <element name="LOGO6" library="we-symbol" package="WEEE_4MM" value="LOGO_WEEE-4" x="8.5725" y="28.2575" rot="MR0"/>
 <element name="IC3" library="we-chip" package="SO08" value="MCP2562FDT-E/SN" x="20.955" y="28.35275" rot="R270"/>
 <element name="IC1" library="we-chip" package="SO14" value="MCP2517FDT-H/SL" x="20.79625" y="38.1" rot="R180"/>
-<element name="Q1" library="we-rcl" package="CRYSTAL_32X13" value="16MHz" x="22.70125" y="43.815" rot="R270"/>
+<element name="Q1" library="we-rcl" package="CRYSTAL_32X13" value="20MHz" x="22.70125" y="43.815" rot="R270"/>
 <element name="D1" library="we-rcl" package="SOD323" value="" x="8.89" y="5.461" rot="R270"/>
 </elements>
 <signals>
